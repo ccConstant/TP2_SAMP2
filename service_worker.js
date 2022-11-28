@@ -1,5 +1,5 @@
 const cacheName = 'ginkobusPWA-v1';
-const appShellFiles = [
+const contentToCache = [
   'index.html',
   'app.js',
   'style.css',
