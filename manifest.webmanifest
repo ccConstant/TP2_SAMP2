@@ -1,7 +1,7 @@
 {
   "name": "GinkoBus Progressive Web App",
   "short_name": "GinkoBus",
-  "description": "Progressive Web App that lists bus timings for GinkoBus",
+  "description": "A Ginko Bus app for teaching purposes.",
   "icons": [
     {
         "src": "icons/icon-512.png",
@@ -13,11 +13,9 @@
       "sizes": "274x274",
       "type": "image/png",
       "purpose": "maskable"
-    },
-    // ...
-
+    }
   ],
-  "start_url": "/index.html",
+  "start_url": "index.html",
   "display": "fullscreen",
   "theme_color": "#B12A34",
   "background_color": "#B12A34"
